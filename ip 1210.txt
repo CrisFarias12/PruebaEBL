@@ -68,9 +68,6 @@
 3.209.84.150
 35.171.100.0
 35.171.100.210
-
-
-Ya bloqueadas
 35.170.83.199
 35.171.100.242
 18.232.1.164
@@ -141,9 +138,3 @@ Ya bloqueadas
 3.238.178.201
 3.239.155.47
 3.238.178.235
-
-
-http://10.186.114.227/edl/AGS
-
-Set-ADDomain -Identity agrosuper.org
-             -Replace @{"ms-DS-MachineAccountQuota"="0"}
